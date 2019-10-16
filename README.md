@@ -1,1 +1,3 @@
 # ARP-spoofing-Detector
+For run this tool you to install scapy library for python3 
+then write in your terminal - python3 arp-detector.py and just enter your interface like wlan0 or eth0 and hit enter ...
